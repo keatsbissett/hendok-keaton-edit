@@ -64,6 +64,8 @@ export type Page =
   | 'settings'
   | 'brand-config'
   | 'kpi'
+  | 'new-brief'
+  | 'briefs'
 
 /** Parent portal modules (far-left nav) */
 export type PortalModule =

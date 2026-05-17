@@ -66,6 +66,7 @@ export type Page =
   | 'kpi'
   | 'new-brief'
   | 'briefs'
+  | 'dashboard'
 
 /** Parent portal modules (far-left nav) */
 export type PortalModule =

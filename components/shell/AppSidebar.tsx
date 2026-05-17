@@ -87,6 +87,26 @@ function PageIcon({ id }: { id: Page }) {
         <path d="M2 12h10" stroke="currentColor" strokeWidth="0.8" strokeLinecap="round"/>
       </svg>
     ),
+    'new-brief': (
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+        <circle cx="7" cy="7" r="5.5" stroke="currentColor" strokeWidth="1"/>
+        <path d="M7 4.5v5M4.5 7h5" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round"/>
+      </svg>
+    ),
+    briefs: (
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+        <rect x="1.5" y="2" width="9" height="10" rx="1.5" stroke="currentColor" strokeWidth="1"/>
+        <path d="M4 5.5h4M4 8h4M4 10.5h2.5" stroke="currentColor" strokeWidth="0.9" strokeLinecap="round"/>
+      </svg>
+    ),
+    dashboard: (
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+        <rect x="1.5" y="1.5" width="5" height="5" rx="1" stroke="currentColor" strokeWidth="1"/>
+        <rect x="7.5" y="1.5" width="5" height="5" rx="1" stroke="currentColor" strokeWidth="1"/>
+        <rect x="1.5" y="7.5" width="5" height="5" rx="1" stroke="currentColor" strokeWidth="1"/>
+        <rect x="7.5" y="7.5" width="5" height="5" rx="1" stroke="currentColor" strokeWidth="1"/>
+      </svg>
+    ),
   }
   return <span className="shrink-0">{icons[id] ?? null}</span>
 }

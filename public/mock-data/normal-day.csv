@@ -1,0 +1,44 @@
+Customer,Account,Region,Type,DocType,ItemCode,ItemDesc,DocNumber,OrderQty,ToQty,UnitPrice,MSP,UserName,FromDate,RefName,CompanyID
+Clear Creek Trading,CC001,Gauteng,Below MSP,Sales Order,FF-2.5,Field Fence 2.5mm,SO-44821,50,50,18.20,19.80,Sumanth Seerparsad,2026-05-17,CLRCRK-PO-887,HK-PC307
+Thekweni Reinforcing,TH0110,Inner KZN,Below MSP,Sales Order,AW-3.15,Agricultural Wire 3.15mm,SO-44822,30,30,14.50,15.10,Johan van Wyk,2026-05-17,TH-REF-2241,HK-PC307
+Spa Warehouse Holdings,SW041,Outer KZN,Below MSP,Sales Order,GW-2.0,Galvanised Wire 2.0mm,SO-44823,25,25,22.10,22.80,Priya Naidoo,2026-05-17,SPA-ORD-0091,HK-PC307
+Buildmart SA,BM220,Gauteng,Below MSP,Quote,NL-90,Nails 90mm,QT-12201,100,100,8.40,8.60,Sipho Dlamini,2026-05-17,BM-QT-5512,HK-GAU01
+African Mesh Distributors,AM088,Cape Town,Below MSP,Sales Order,WM-50,Wire Mesh 50x50,SO-44824,15,15,31.20,32.00,Johan van Wyk,2026-05-17,AMD-SO-334,HK-DIST1
+Durban Hardware Supplies,DH019,Inner KZN,Below MSP,Sales Order,HC-4.0,High Carbon Wire 4.0mm,SO-44825,20,20,26.80,27.50,Sumanth Seerparsad,2026-05-17,DHS-PO-1102,HK-PC307
+Lesotho Building Materials,LB203,Lesotho,Below MSP,Sales Order,BW-2.5,Barbed Wire 2.5mm,SO-44826,40,40,17.90,18.20,Priya Naidoo,2026-05-17,LBM-ORD-228,HK-DIST1
+Zimsteel Trading,ZS301,Zimbabwe,Below MSP,Sales Order,AW-2.5,Agricultural Wire 2.5mm,SO-44827,60,60,13.80,14.10,Johan van Wyk,2026-05-17,ZST-PO-0771,HK-DIST1
+Clear Creek Trading,CC001,Gauteng,Below MSP,Sales Order,FF-2.5,Field Fence 2.5mm,SO-44828,35,35,18.00,19.80,Sumanth Seerparsad,2026-05-17,CLRCRK-PO-888,HK-PC307
+Thekweni Reinforcing,TH0110,Inner KZN,Below MSP,Sales Order,CT-12,Cap Tie 1.2mm,SO-44829,200,200,3.10,3.20,Sipho Dlamini,2026-05-17,TH-REF-2242,HK-PC307
+Buildmart SA,BM220,Gauteng,Below MSP,Sales Order,RF-IBR,Roofing IBR Sheet,SO-44830,80,80,41.50,42.20,Sipho Dlamini,2026-05-17,BM-SO-5513,HK-GAU01
+African Mesh Distributors,AM088,Cape Town,Below MSP,Quote,BM-BK,Black Mesh Roll,QT-12202,10,10,55.00,56.00,Johan van Wyk,2026-05-17,AMD-QT-335,HK-DIST1
+Durban Hardware Supplies,DH019,Inner KZN,Below MSP,Sales Order,NL-75,Nails 75mm,SO-44831,150,150,7.90,8.10,Sumanth Seerparsad,2026-05-17,DHS-PO-1103,HK-PC307
+Lesotho Building Materials,LB203,Lesotho,Below MSP,Sales Order,FF-1.8,Field Fence 1.8mm,SO-44832,20,20,15.40,15.80,Priya Naidoo,2026-05-17,LBM-ORD-229,HK-DIST1
+Zimsteel Trading,ZS301,Zimbabwe,Below MSP,Sales Order,GW-3.15,Galvanised Wire 3.15mm,SO-44833,45,45,24.20,24.80,Johan van Wyk,2026-05-17,ZST-PO-0772,HK-DIST1
+Spa Warehouse Holdings,SW041,Outer KZN,Below MSP,Sales Order,WM-75,Wire Mesh 75x75,SO-44834,12,12,38.50,39.20,Priya Naidoo,2026-05-17,SPA-ORD-0092,HK-PC307
+Thekweni Reinforcing,TH0110,Inner KZN,Below MSP,Sales Order,HC-3.15,High Carbon Wire 3.15mm,SO-44835,18,18,23.10,23.60,Johan van Wyk,2026-05-17,TH-REF-2243,HK-PC307
+Buildmart SA,BM220,Gauteng,Below MSP,Sales Order,AW-2.0,Agricultural Wire 2.0mm,SO-44836,55,55,11.80,12.10,Sipho Dlamini,2026-05-17,BM-SO-5514,HK-GAU01
+Clear Creek Trading,CC001,Gauteng,Below MSP,Sales Order,CT-16,Cap Tie 1.6mm,SO-44837,300,300,4.20,4.40,Sumanth Seerparsad,2026-05-17,CLRCRK-PO-889,HK-PC307
+African Mesh Distributors,AM088,Cape Town,Below MSP,Sales Order,BW-3.15,Barbed Wire 3.15mm,SO-44838,30,30,21.50,22.00,Johan van Wyk,2026-05-17,AMD-SO-336,HK-DIST1
+Durban Hardware Supplies,DH019,Inner KZN,Below MSP,Sales Order,GW-2.5,Galvanised Wire 2.5mm,SO-44839,40,40,19.80,20.20,Sumanth Seerparsad,2026-05-17,DHS-PO-1104,HK-PC307
+Zimsteel Trading,ZS301,Zimbabwe,Below MSP,Sales Order,NL-50,Nails 50mm,SO-44840,200,200,6.10,6.30,Johan van Wyk,2026-05-17,ZST-PO-0773,HK-DIST1
+Lesotho Building Materials,LB203,Lesotho,Below MSP,Sales Order,WM-50,Wire Mesh 50x50,SO-44841,8,8,30.80,31.50,Priya Naidoo,2026-05-17,LBM-ORD-230,HK-DIST1
+Spa Warehouse Holdings,SW041,Outer KZN,Below MSP,Sales Order,HC-2.5,High Carbon Wire 2.5mm,SO-44842,22,22,20.10,20.60,Priya Naidoo,2026-05-17,SPA-ORD-0093,HK-PC307
+Thekweni Reinforcing,TH0110,Inner KZN,Below MSP,Sales Order,FF-2.5,Field Fence 2.5mm,SO-44843,28,28,19.20,19.80,Johan van Wyk,2026-05-17,TH-REF-2244,HK-PC307
+Buildmart SA,BM220,Gauteng,Below MSP,Quote,RF-CORR,Roofing Corrugated Sheet,QT-12203,60,60,38.90,39.50,Sipho Dlamini,2026-05-17,BM-QT-5515,HK-GAU01
+African Mesh Distributors,AM088,Cape Town,Below MSP,Sales Order,AW-3.15,Agricultural Wire 3.15mm,SO-44844,35,35,13.90,14.20,Johan van Wyk,2026-05-17,AMD-SO-337,HK-DIST1
+Clear Creek Trading,CC001,Gauteng,Below MSP,Sales Order,GW-4.0,Galvanised Wire 4.0mm,SO-44845,20,20,29.80,31.20,Sumanth Seerparsad,2026-05-17,CLRCRK-PO-890,HK-PC307
+Durban Hardware Supplies,DH019,Inner KZN,Below MSP,Sales Order,BW-2.0,Barbed Wire 2.0mm,SO-44846,50,50,14.10,14.40,Sumanth Seerparsad,2026-05-17,DHS-PO-1105,HK-PC307
+Zimsteel Trading,ZS301,Zimbabwe,Below MSP,Sales Order,CT-12,Cap Tie 1.2mm,SO-44847,500,500,3.00,3.10,Johan van Wyk,2026-05-17,ZST-PO-0774,HK-DIST1
+Lesotho Building Materials,LB203,Lesotho,Below MSP,Sales Order,HC-3.15,High Carbon Wire 3.15mm,SO-44848,15,15,22.90,23.40,Priya Naidoo,2026-05-17,LBM-ORD-231,HK-DIST1
+Spa Warehouse Holdings,SW041,Outer KZN,Below MSP,Sales Order,WM-100,Wire Mesh 100x100,SO-44849,6,6,42.10,42.80,Priya Naidoo,2026-05-17,SPA-ORD-0094,HK-PC307
+Thekweni Reinforcing,TH0110,Inner KZN,Below MSP,Sales Order,NL-90,Nails 90mm,SO-44850,120,120,8.20,8.50,Johan van Wyk,2026-05-17,TH-REF-2245,HK-PC307
+Buildmart SA,BM220,Gauteng,Below MSP,Sales Order,BM-BK,Black Mesh Roll,SO-44851,8,8,53.50,55.00,Sipho Dlamini,2026-05-17,BM-SO-5516,HK-GAU01
+African Mesh Distributors,AM088,Cape Town,Below MSP,Sales Order,FF-1.4,Field Fence 1.4mm,SO-44852,25,25,12.10,12.40,Johan van Wyk,2026-05-17,AMD-SO-338,HK-DIST1
+Clear Creek Trading,CC001,Gauteng,Below MSP,Sales Order,FF-2.5,Field Fence 2.5mm,SO-44853,40,40,16.80,19.80,Sumanth Seerparsad,2026-05-17,CLRCRK-PO-891,HK-PC307
+Durban Hardware Supplies,DH019,Inner KZN,Below MSP,Sales Order,AW-2.5,Agricultural Wire 2.5mm,SO-44854,30,30,13.60,13.90,Sumanth Seerparsad,2026-05-17,DHS-PO-1106,HK-PC307
+Zimsteel Trading,ZS301,Zimbabwe,Below MSP,Sales Order,GW-2.5,Galvanised Wire 2.5mm,SO-44855,38,38,18.90,19.40,Johan van Wyk,2026-05-17,ZST-PO-0775,HK-DIST1
+Lesotho Building Materials,LB203,Lesotho,Below MSP,Sales Order,BW-3.15,Barbed Wire 3.15mm,SO-44856,22,22,20.80,21.20,Priya Naidoo,2026-05-17,LBM-ORD-232,HK-DIST1
+Spa Warehouse Holdings,SW041,Outer KZN,Below MSP,Quote,HC-4.0,High Carbon Wire 4.0mm,QT-12204,18,18,25.90,26.50,Priya Naidoo,2026-05-17,SPA-QT-0055,HK-PC307
+Thekweni Reinforcing,TH0110,Inner KZN,Below MSP,Sales Order,RF-IBR,Roofing IBR Sheet,SO-44857,45,45,40.80,41.50,Johan van Wyk,2026-05-17,TH-REF-2246,HK-PC307
+Buildmart SA,BM220,Gauteng,Below MSP,Sales Order,CT-16,Cap Tie 1.6mm,SO-44858,250,250,4.10,4.20,Sipho Dlamini,2026-05-17,BM-SO-5517,HK-GAU01
+African Mesh Distributors,AM088,Cape Town,Below MSP,Sales Order,WM-50,Wire Mesh 50x50,SO-44859,18,18,30.50,31.20,Johan van Wyk,2026-05-17,AMD-SO-339,HK-DIST1
